@@ -1,5 +1,4 @@
 public class Tmp {
-    // Type your main code here
 
 
     public static String printHello() {
